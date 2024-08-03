@@ -1,0 +1,45 @@
+*{
+    background-color:#F0F2F5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.facebook{
+    color: #1877F2;
+    font-weight: 900;
+    font-size: 60px;
+}
+p{
+    font-size: 22px;
+    font-weight: bold;
+}
+.textcenter{
+    text-align: center;
+    
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(180, 176, 176);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 500px;
+}
+.container{
+    margin-top: 200px;
+}
+.inputbox{
+    height: 60px;
+}
+.one{
+    font-size: small;
+    text-align: left;
+
+}
+.para{
+    text-align: center;
+    font-size: smaller;
+    margin-top: 30px;
+    color: light;
+}
+.anchor{
+    text-decoration: none;
+    color: black;
+}
